@@ -1,0 +1,79 @@
+#alert{
+    text-align: center;
+    padding:10px;
+    background:#79c879;
+    color:#fff;
+    margin-bottom:10px;
+    display:none;
+  }
+  body{
+    background:#92bde7;
+    color:#485e74;
+    line-height:1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:1em;
+  }
+#lfouk {
+    margin-top: 60px;
+    margin-left: 80px;
+    text-align: center;
+}
+#lfouk span{
+    color:white;
+}
+h1{
+    color:rgb(72,94,116);
+    font-size: 32px;
+    font-weight: 700;
+}
+body{
+    background-color: rgb(146,189,231);
+    padding: 1em;
+}
+#info{
+    height: 600px;
+    width: 300px;
+    background-color: #c9e6ff;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-top: 32px;
+    margin-left: 80px;
+    display:inline-block;
+    vertical-align: top;
+}
+#info1{
+    height: 600px;
+    width: 500px;
+    background-color: #f9feff;
+    display: inline-block;
+    margin-top: 0px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-top: 32px;
+    margin-bottom: 1500px;
+    vertical-align: top;
+
+}
+#wrapper{
+    display:inline-block;
+    vertical-align: top;
+}
+#form1 label{
+    display: block;
+}
+#form1 button, #form1 input, {
+    width: 200px;
+    padding: 1em;
+    height: 100pxs;
+} 
+#form1 textarea{
+    width: 100%;
+}
+#ip , #ip1 {
+    display: inline-block;
+}
+#ip1{
+    margin-left: 20px;
+}
